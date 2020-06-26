@@ -1,2 +1,2 @@
-new line read by Simas
+new line write by Simas
 Olá, essa linha foi inserida pelo samuel camilo.
